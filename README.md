@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sarwan!
-#### I am enthusiastic about all things concerning 👨‍💻Data Science, 📊Machine Learning and 🦾AI.
-![I am enthusiastic about all things concerning 👨‍💻Data Science, 📊Machine Learning and 🦾AI.]
+#### _I am enthusiastic about all things concerning 👨‍💻Data Science, 📊Machine Learning and 🦾AI._
 
 I am a creative individual with a passion for originality. I hold myself accountable to high standards hence, I find myself to be a result-oriented and performance driven professional. After four years of working as a professional in the digital marketing industry of Pakistan, I have realised that to distinguish oneself in such a saturated industry, one must be creative but also be able to back their intuitions with data. 
 
